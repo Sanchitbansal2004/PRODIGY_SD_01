@@ -31,7 +31,7 @@ int main()
         printf("Enter the temperature in fahrenhite: ");
         scanf("%f",&Fahrenhiet);
         Kelvin = (Fahrenhiet - 32.0) * 5/9 +273.15;
-        Celsius = (Fahrenheit - 32.0) * 5/9;
+        Celsius = (Fahrenhiet - 32.0) * 5/9;
         printf("In Celsius the value is :\t %f \n",Celsius);
         printf("In Kevlin the value is :\t %f \n",Kelvin);
         break;
