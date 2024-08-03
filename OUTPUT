@@ -1,0 +1,8 @@
+Choose the unit you want to convert: 
+1.Kelvin
+2.Celsius
+3.Fahrenhiet 
+2
+Enter the temperature in Celsius: 25
+In kelvin the value is : 298.149994 
+In Fahrenhiet the value is: 77.000000
